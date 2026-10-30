@@ -1,4 +1,4 @@
-const name = "Sabbir Rahman Rabbil";
+const name = "Md. Rabbil Ali";
   const el = document.getElementById('typed-name');
   let i = 0;
   function type(){
